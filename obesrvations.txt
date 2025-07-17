@@ -1,0 +1,16 @@
+1.Linear regression
+    The r2 score is: 0.930
+    The root mean square value is: 4.503
+    Predicted output for the input([15, 44, 1022.06, 78.12])=[465.78837956]
+
+
+2.Decision Tree regression
+    The r2 score for decision tree regression is: 0.93
+    The Root mean squared Error is:4.42
+    Predicted output for the input([15, 44, 1022.06, 78.12])=[462.67]
+
+
+3.Random Forest regression
+    The r2 score for Random Forest Regression is: 0.96
+    The root mean square error value is: 3.25
+    Predicted output for the input([15, 44, 1022.06, 78.12])=[462.6929]
